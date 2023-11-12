@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SecurBot and Astral<br>🌱 I’m currently learning HTML/CSS/PHP
+🔭 I’m currently working on Cobalt and Astral<br>🌱 I’m currently learning HTML/CSS/PHP
 
 
 ## 🌐 Socials:
